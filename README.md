@@ -1,4 +1,4 @@
-# IFNS
+# IFNS R package
 
 ## Individual frailty excess hazard models in cancer epidemiology
 
