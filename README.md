@@ -19,4 +19,6 @@ An example of the use of this package using simulated data can be found at:
 
 [Simulacrum data - lung cancer: Individual Frailty Model](https://rpubs.com/FJRubio/IFNSSimulacrum)
 
+The data set used in this example is available at [LBANS](https://github.com/FJRubio67/LBANS).
+
 See also: [GHSurv](https://github.com/FJRubio67/GHSurv) and [LBANS](https://github.com/FJRubio67/LBANS)
