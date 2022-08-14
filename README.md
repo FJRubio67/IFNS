@@ -15,7 +15,7 @@ install_github("FJRubio67/IFNS")
 library(IFNS)
 ```
 
-An example of the use of this package using real data can be found at:
+An example of the use of this package using simulated data can be found at:
 
 [Simulacrum data - lung cancer: Individual Frailty Model](https://rpubs.com/FJRubio/IFNSSimulacrum)
 
