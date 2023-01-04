@@ -4,7 +4,7 @@
 
 This repository contains a real data application of the clustered survival models proposed in the paper:
 
-> Rubio, F.J., Putter, H. and Belot, A. (2022). Individual frailty excess hazard models in cancer epidemiology. Under review.
+> Rubio, F.J., Putter, H. and Belot, A. (2022). Individual frailty excess hazard models in cancer epidemiology. Statistics in Medicine, in press.
 
 The models are fitted using the R package `IFNS`. To install the `IFNS` R package use:
 
