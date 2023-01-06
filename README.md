@@ -2,7 +2,7 @@
 
 ## Individual frailty excess hazard models in cancer epidemiology
 
-This repository contains a real data application of the clustered survival models proposed in the paper:
+This repository contains a real data application of the individual frailty excess hazard models proposed in the paper:
 
 > Rubio, F.J., Putter, H. and Belot, A. (2022). Individual frailty excess hazard models in cancer epidemiology. Statistics in Medicine, in press. [Preprint](https://drive.google.com/file/d/16Jc6T4EOgIAoSJa0IJM-kN8hVAV9cZDG/view)
 
