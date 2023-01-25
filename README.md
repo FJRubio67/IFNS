@@ -4,7 +4,7 @@
 
 This repository contains a real data application of the individual frailty excess hazard models proposed in the paper:
 
-> Rubio, F.J., Putter, H. and Belot, A. (2022). Individual frailty excess hazard models in cancer epidemiology. Statistics in Medicine, in press. https://doi.org/10.1002/sim.9657 [Preprint](https://drive.google.com/file/d/16Jc6T4EOgIAoSJa0IJM-kN8hVAV9cZDG/view)
+> Rubio, F.J., Putter, H. and Belot, A. (2022). Individual frailty excess hazard models in cancer epidemiology. Statistics in Medicine, in press. https://doi.org/10.1002/sim.9657 . [ [Preprint] ](https://drive.google.com/file/d/16Jc6T4EOgIAoSJa0IJM-kN8hVAV9cZDG/view)
 
 The models are fitted using the R package `IFNS`. To install the `IFNS` R package use:
 
